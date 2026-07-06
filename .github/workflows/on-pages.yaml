@@ -23,5 +23,4 @@ jobs:
 
   build-site:
     needs: update-url
-    if: needs.update-url.outputs.changed == 'true'
     uses: ./.github/workflows/build-site.yaml
