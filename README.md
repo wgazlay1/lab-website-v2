@@ -1,3 +1,5 @@
+Visit **[wgazlay1.github.io/lab-website-v2](https://wgazlay1.github.io/lab-website-v2)** 🚀
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17228741.svg)](https://doi.org/10.5281/zenodo.17228741)
 
 <h1 align="center">Lab Website Template</h1>
