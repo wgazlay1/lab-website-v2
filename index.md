@@ -9,18 +9,6 @@ To model disease-relevant mutations and protein aggregates in a human context, w
 
 Our research spans a range of neurodegenerative conditions, with particular emphasis on rare disorders such as Giant Axonal Neuropathy (GAN). Ongoing projects include multiomic profiling of GAN and related aggregate disorders, mechanistic dissection of glial contributions to disease, and the identification of glia-specific molecular changes that may inform therapeutic development. Our overarching goal is to build a mechanistic and translational framework for understanding glial biology in human neurodegeneration.
 
-{%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
-%}
-
 {% include section.html %}
 
 ## Highlights
